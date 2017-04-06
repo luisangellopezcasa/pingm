@@ -1,0 +1,2 @@
+# pingm
+Ping masivos
